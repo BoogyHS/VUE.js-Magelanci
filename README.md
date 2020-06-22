@@ -6,6 +6,7 @@ This project is a forum for people, who like to travel. For using the functional
 * In this project is used **Typescript**.
 * **Vuex** is used for the state management.
 * **vue2-editor** is rich text editor used in the forms in this project. 
+* **vuelidate** is used for validating the input from the forms.
 * **Firebase** is used for back-end.
 * **Axios** is used for HTTP requests.
 
