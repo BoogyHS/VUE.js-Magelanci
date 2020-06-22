@@ -3,10 +3,11 @@
 ## Forum
 This project is a forum for people, who like to travel. For using the functionality, you need to register with email, username and password.
 
-**Vuex** is used for the state management.
-**vue2-editor** is rich text editor used in the forms in this project. 
-**Firebase** is used for back-end.
-**Axios** is used for HTTP requests.
+* In this project is used **Typescript**.
+* **Vuex** is used for the state management.
+* **vue2-editor** is rich text editor used in the forms in this project. 
+* **Firebase** is used for back-end.
+* **Axios** is used for HTTP requests.
 
 ## Project setup
 ```
